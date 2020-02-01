@@ -1,13 +1,12 @@
 import java.util.Arrays;
 
 /**
- * La clase matrix contiene todos lis sitemas de operaciones con matrices del documento, esta enlazado al MatrixTest.java
+ * La clase matrix contiene todos los sitemas de operaciones con matrices del documento, esta enlazado al MatrixTest.java
  */
 class Matrix {
 
     /**
-     * Comprueba que la matriz que entra por parámetro sea cuadrada.
-     *
+     * Comprueba que la matriz que entra por parámetro sea cuadrada
      * @param mat Matriz enviada por parámetro.
      * @return devuelve un boolean false si no es cuadrada.
      */
@@ -20,7 +19,6 @@ class Matrix {
 
     /**
      * Comprueba si una Array puede ser considerada una matriz comprobando la longitud de sus filas y columnas.
-     *
      * @param mat Matriz enviada por parámetro.
      * @return devuelve boolean false si no los es.
      */
